@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Vansali 👋🏻
 
-<!--
-**VansaliVK/VansaliVK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate @ UCSC  
+💻 Learning • Building • Exploring
 
-Here are some ideas to get you started:
+### 🌱 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning more about software development
+- Working on my problem-solving skills
+- Surviving university assignments😭
+
+### 💻 Tech
+
+`C` `C++` `Java` `Python` `HTML` `Git`
+
+### ✨ A little about me
+
+I like learning how things work, building things from scratch,
+and occasionally making my code work after staring at it for way too long. :)
+
+> Still learning. Still building. Still breaking things. 💻
